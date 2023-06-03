@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin: 30px;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    width: 400px;
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.book-summary {
+    width: 550px;
+    min-width: 350px;
+    margin: 40px 30px;
+}
+
+.stars {
+    width: 150px;
+}
+
+.statement {
+    font-weight: bold;
+}
+
+a {
+    color: #007185;
+}
+
+.breadcrumb {
+    color: #565959;
+}
